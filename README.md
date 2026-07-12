@@ -16,30 +16,26 @@ CryptoPulse provides real-time cryptocurrency market data, price tracking, watch
 
 ## 🛠 Tech Stack
 
-Frontend:
+### Frontend
 - React
 - TypeScript
 - Vite
 - Tailwind CSS
 
-API:
+### API
 - CoinGecko API
 
-Tools:
+### Tools
 - Git & GitHub
 - Vercel
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+Coming soon...
 
 ## 🚀 Installation
 
-Clone repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/Avikr11/crypto-price-dashboard.git
-npm install
-npm run build
-npm install
-
