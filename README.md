@@ -31,7 +31,17 @@ CryptoPulse provides real-time cryptocurrency market data, price tracking, watch
 
 ## 📸 Screenshots
 
-Coming soon...
+### Dashboard
+
+![Dashboard](dashboard.jpg)
+
+### Cryptocurrency Table
+
+![Coins Table](coins-table.jpg)
+
+### Search & Sorting
+
+![Search Sort](search-sort.jpg)
 
 ## 🚀 Installation
 
